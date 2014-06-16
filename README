@@ -1,0 +1,8 @@
+This project is a simple client-server chat application developed in Posix C.
+
+The app consists in two (2) parts - a client part and a server part.
+Either parts can work as standalone apps, but the client part cannot work without the server.
+
+The project has been developed in Cygwin and Notepad++, testing on Linux is required.
+
+Note: the makefile was developed for Cygwin, the build part should work fine, but the clean part not.
